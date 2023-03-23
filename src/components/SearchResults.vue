@@ -33,7 +33,7 @@ export default {
 
   methods: {
     async search(zip) {
-      const response = await axios.get(`http://api.zippopotam.us/us/${zip}`);
+      const response = await axios.get(`https://api.zippopotam.us/us/${zip}`);
       const data = response.data.places[0];
       this.city = data['place name'];
       this.state = data.state;
