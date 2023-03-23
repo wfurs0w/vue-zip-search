@@ -1,0 +1,18 @@
+@import './base.css';
+
+#app {
+  width: 100%;
+  font-weight: normal;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  transition: 0.4s;
+}
+
+a:hover {
+  color: #468cf7;
+}
+
+
