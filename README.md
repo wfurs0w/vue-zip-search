@@ -1,6 +1,6 @@
 # ZIP-Search
 
-[DEMO]()
+[DEMO](https://vue-zip-search-5i178oy8w-wfurs0w.vercel.app/)
 
 This is a basic Single Page Application that searches data based on users’ ZIP code input (USA ZIP codes).
 
